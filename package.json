@@ -1,0 +1,30 @@
+{
+  "name": "restful_api_v3",
+  "version": "1.0.0",
+  "description": "Learn build restful api auth with fastify",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fastify": "^2.10.0",
+    "fastify-formbody": "^3.1.0",
+    "knex": "^0.20.2",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "objection": "^1.6.11",
+    "sha1": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstoMiwanda/restful-api-fastify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AstoMiwanda/restful-api-fastify/issues"
+  },
+  "homepage": "https://github.com/AstoMiwanda/restful-api-fastify#readme"
+}
